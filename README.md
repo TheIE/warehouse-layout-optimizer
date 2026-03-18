@@ -18,6 +18,7 @@ An Integer Linear Programming (ILP) model designed to optimize the facility layo
 ## 📈 Key Findings & Business Impact
 * **Efficiency Gain:** Achieved a **6% baseline improvement** in layout efficiency strictly through optimized part placement.
 * **Safety & Accessibility:** Successfully routed heavy machinery paths, drastically improving forklift maneuverability without sacrificing storage capacity (a metric that further improves operational time beyond the baseline 6%).
+<img width="523" height="137" alt="image" src="https://github.com/user-attachments/assets/2ce5a8e8-7a81-40b4-a9c6-4c1a7fba77aa" />
 
 ## 🚀 How to Run the Code
 1. Clone this repository: `git clone https://github.com/yourusername/warehouse-optimization.git`
